@@ -10,7 +10,3 @@ Lately, I’ve been:
 - 🌱 Teaching myself **frontend development**
 - 🧠 Learning how JavaScript
 - 🛠 Building small projects
-
-## 📊 GitHub Stats
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/languages?username=dianalourenco)
