@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**dianalourenco/dianalourenco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Biotechnology graduate** with a **Master’s in Bioinformatics & Computational Biology**.
 
-Here are some ideas to get you started:
+My background is mostly data-heavy:
+- 🧬 Bioinformatics & computational biology  
+- 📊 Data analysis & data science  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lately, I’ve been:
+- 🌱 Teaching myself **frontend development**
+- 🧠 Learning how JavaScript
+- 🛠 Building small projects
+
+## 📊 GitHub Stats
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/languages?username=dianalourenco)
