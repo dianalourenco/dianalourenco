@@ -8,5 +8,5 @@ My background is mostly data-heavy:
 
 Lately, I’ve been:
 - 🌱 Teaching myself **frontend development**
-- 🧠 Learning JavaScript
+- 🧠 Learning JavaScript, React, NodeJS
 - 🛠 Building small projects
